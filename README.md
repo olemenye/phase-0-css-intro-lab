@@ -1,3 +1,4 @@
+
 # Introduction to CSS Lab
 
 ## Learning Goals
